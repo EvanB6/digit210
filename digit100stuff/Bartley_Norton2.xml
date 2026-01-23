@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NortonProject media = "letter">
+    <paragraph n="1">I received particular joy at seeing, within the smell of the land, <Norton background ="Yorkshire">an Old
+        Yorkshire man</Norton> of foreseer who had left his <Norton son="true" job = "merchant">son a merchant in <loc>New York</loc></Norton>, <home left="true">to breath
+        his last in his native land</home>; far from the <misfortune>continued storms</misfortune> we met &amp; <misfortune>feeble situation</misfortune> he
+        was in from <misfortune>sea sickness</misfortune> I had been apprehensive we should have lost him on the passage. </paragraph>
+    <paragraph n="2">Coasting the Southwest shore of <loc>Ireland</loc> on that <date>18th</date> in the evening
+        we made Cork, where we were (sp. where) becalmed – we met there a ship we had seen two days
+        before at a distance, she was an armed vessel of <loc>Liverpool</loc>, that had been at
+            <loc>Barbados</loc>, and was now returning, she had on board the Governor, and suite of
+        a Dutch settlement in the West Indies, lately taken by the British troops – There is not
+        much appearance of verdure yet on shore – or it might in some respect afford a beautiful
+        prospect – <mark crossedout="loops">but they have a disagreeable way of decorating their coasts with gibbets (sp.
+        jibbets) here and there</mark> – Is it not surprising, that a people so enlightened, so humane and
+        so polite should have it so arranged, that the first object striking the view of the
+        strangers, who approach their <mark crossouted = "loops">shore</mark> should be an emblem of the severity of their laws and
+        depravity of some of their people. Telegraphs were also to be seen on every eminence – this
+        is a late invention to communicate intelligence of the approach of an enemy or to give
+        orders to the ships of the Navy – they are on a line of communica-tion within distinct view
+        of each other – certain figures are put up which are repeated from one (p.35) <telegraphs encoded = "true">to the other
+        without being understood by any but those from <mark edit="added" color ="dark black">whom</mark> the orders issue and the commanders of
+        Posts.</telegraphs> We there learnt, by the boats which came from the shore, that all was as yet
+        tranquil, that they had only heard of the threats of Bonaparte which it was not likely, he
+        would be able to put in execu-tion.</paragraph> <!--started marking up things that wouldnt seem revelant but could be usefull information during their time period-->
+    <paragraph n="3">After night a fair wind springing up, <voyage>we made sail</voyage>, and next morning, we were
+        abreast of <loc>Wicklow Moun-tains</loc>, the land is high and elevated, but we were at too great a
+        distance to distinctly view it – On the <day>21st</day> we sailed along the <loc>Welsh Coast</loc> and passed
+        <loc>Holyhead</loc> – here is elevated land &amp; lofty mountains, whose tops are covered with snow,
+        which although they do not prepossess you with an idea of the fertility of the country, yet
+        the natural Majestic grandeur of the asylum of the descendants of ancient Britons strikes
+        the mind with veneration at the magnanimity and unfortunate valor of their ancestors who
+        preferred breathing the air of freedom on Rocky Mountains, to remaining in subjection on
+        their native fertile plains, and calls a sigh for their <hero>hero the gallant
+        Caractacus.</hero></paragraph>
+    <paragraph n="4"> In the evening a <person ship ="captain?" airplanes="unsure">Pilot</person> comes on board and next day we arrive safe in dock <!-- why is he called a pilot, was there planes in this time period? -->
+        here, the pleasure we felt on the occasion can not well be imagined by any but those, who
+        have made a long sea voyage. Altho’ this was <day>Sunday</day> and business lulled at rest,
+        yet sufficient was to be seen to give a stranger some conception of the magnitude of the <!-- city was slow on sunday -->
+        trade carried on at this place – <Structures Wealth = "alot" port = "trade port" >the many store houses, the multitude of ships, the inland<!--What is the importance of him going into so much detail about how slow the bussiness is -->
+        canals and docks all denote wealth </Structures>&amp; exertion, <metaphor meaning="unsure">these last are of two kind wet and dry</metaphor>,
+        the latter are to receive vessels to be repaired; the former are for (p.36) ships to unload
+        and load in; they are made by digging spaces to such a level as to be of sufficient depth
+        for the vessels that are to enter the gates of these docks at which the vessels, and flow of
+        the tide are received, are shut in the ebb tide by which means the water is retained that
+        keeps the ships afloat – were it not for these constructions the lading and unlading would
+        be performed with great inconvenience at this port which is not naturally well calculated,
+        the River being amazing shallow at low water, and its entry rendered difficult from a number
+        of sand banks.</paragraph>
+    <paragraph n="5"><mark rewritten = "loops">But the approximate situation of this place to several manufacturing town
+        renders it the <loc trade="huge">great emporium of commerce to the West</loc> –</mark> It is here that are deposited the
+        <products>stuffs</products> of <loc>Manchester</loc>, the <products>cutlery</products> of <loc>Birmingham</loc> and the <products>woolen cloths</products> of <loc>Yorkshire</loc>, as are
+        also the produce of the west for which they are bartered – it is considered next to <loc>London</loc>
+        for importance in trade: that of <loc>Africa</loc> however is a branch that is carried on here to some
+        extent and is not honorable to the human spe-cies; for it is a barter of their fellow
+        creatures – you must not by this imagine, that the slaves are brought here, no, for none
+        would be slaves after they had breathed the British air – they are bought in Africa for
+        coarse clothes, arms spirits &amp; taken to the West Indies and sold for the produce of
+        these Islands, which is brought to this place &amp; from it taken to different parts of the
+        country.</paragraph>
+</NortonProject>

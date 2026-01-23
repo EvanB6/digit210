@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-model href="Schema2.rnc" type="application/relax-ng-compact-syntax"?>
+<Poem>
+    <Heading>"Ballad of Booker T.," by <Author>Langston Hughes</Author>, <date year = "1941" month = "June" day ="1">June 1, 1941</date></Heading>
+    <Title>BALLAD OF BOOKER T. by</Title>  <Author>Langston Hughes</Author>
+    <Text><MC>Booker T.</MC>
+        <line n="1">Was a practical man.</line>
+        <line n="2">He said, <job type="farmer" Real="not sure">Till the soil</job></line>
+        <line n="3">And learn from the land.</line>
+        <line n="4">Let down your bucket<stamp color="red"/></line>
+        <line n="5">Where you are.<stamp color="red"/></line>
+        <line n="6">Your fate is here<stamp color="red"/></line>
+        <line n="7">And not afar.<stamp color="red"/></line>
+        <line n="8">To help yourself<stamp color="red"/></line>
+        <line n="9">And your fellow man,<stamp color="red"/></line>
+        <line n="10">Train your head,</line>
+        <line n="11">Your heart, <orig type="underlined">and your hand</orig>.</line>
+        <!-- orignal text had the words underlined -->
+        <line n="12">For smartness alone's</line>
+        <line n="13">Surely not meet—</line>
+        <line n="14">If you haven't at the same time</line>
+        <line n="15">Got something to eat.</line>
+        <line n="16">Thus at <City loc="Alabama">Tuskegee</City></line>
+        <line n="17">He built a school</line>
+        <line n="18"><teachings type="knowledge">With book-learning there</teachings></line>
+        <line n="19"><teachings type="trades">And the workman's tool.</teachings></line>
+        <line n="20">He started out</line>
+        <line n="21">In a simple way—</line>
+        <line n="22">For yesterday</line>
+        <line n="23">Was <orig type="underlined">not</orig><!-- orignal text had the words underlined -->
+            today.</line>
+        <line n="24">Sometimes he had</line>
+        <line n="25">Compromise in his talk—</line>
+        <line n="26">For a man must crawl</line>
+        <line n="27">Before he can walk—</line>
+        <line n="28">And in <state>Alabama</state> in  '85</line>
+        <line n="29">A joker was lucky</line>
+        <line n="30">To be alive.</line>
+        <line n="31">But <MC>Booker T.</MC></line>
+        <line n="32">Was nobody's fool:</line>
+        <line n="33">You may carve a dream</line>
+        <line n="34">With an humble tool.</line>
+        <line n="35">The tallest tower</line>
+        <line n="36">Can tumble down</line>
+        <line n="37">If it be not rooted</line>
+        <line n="38">In solid ground.</line>
+        <line n="39">So, being a far-seeing</line>
+        <!-- page 2 -->
+        <line n="40">Education and Outreach Division</line>
+        <line n="41">Practical man,</line>
+        <line n="42">He said, Train your head,</line>
+        <line n="43">Your heart, <orig type="underlined">and your hand</orig>.</line>
+        <!-- orignal text had the words underlined -->
+        <line n="44">Your fate is here</line>
+        <line n="45">And not afar,</line>
+        <line n="46">So let down your bucket</line>
+        <line n="47">Where you are.</line></Text>
+    <endnote>LANGSTON HUGHES Final Draft, Hollow Hills Farm, Monterey, <state>California</state>, <date year = "1941" month = "June" day ="1">June 1, 1941
+        </date></endnote></Poem>

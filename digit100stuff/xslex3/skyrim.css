@@ -1,0 +1,25 @@
+body{
+    background: black;
+    color: yellow;
+    
+}
+
+section.main{
+    outline-style:double;
+    outline-color: green;
+    padding: 1em;
+}
+span.faction{
+    color:aqua;
+    font-weight:bold;
+}
+span.character{
+    color:red;
+}
+span.location{
+    color:blue;
+}
+
+span.item{
+    color: orange;
+}

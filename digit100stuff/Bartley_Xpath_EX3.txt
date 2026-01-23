@@ -1,0 +1,31 @@
+1. //div/count(*) returns numbers 2,3,2,4
+//div/*/count(*) returns larger numbers like 45,26,9,56
+i think the first one is count each main section under div and the second one is count like all the lines after div.
+
+2.//div/*/count(*) => min() = 3
+//div/*/count(*) => max() = 1112
+
+3.//div[ max(*/count(*)) = //div/*/count(*) ]
+
+4a. distinct-values(//occupation/@type)
+
+4b.distinct-values(//occupation/@type) => count() =15
+
+5a. //occupation[@type = "artist"]
+
+5b. //person[occupation[@type = "artist"]]
+
+5c.//person[@sex ="f"]//occupation[@type = "artist"]
+
+5d.//person/occupation[@subtype = "engraver"]
+
+5e. //person[occupation[@subtype = "engraver"]][birth/@when = "1787"] William Finden
+
+5f. //person[occupation[@subtype = "engraver"]]/birth/@when
+
+5g. //person[occupation[@subtype = "engraver"]]/birth/@when ! string() gets string
+//person[occupation[@subtype = "engraver"]]/birth/@when ! string() => sort() => min() 1667-01-12
+
+6a. //*/name()
+
+6b. distinct-values(//*/name()) => count() = 78

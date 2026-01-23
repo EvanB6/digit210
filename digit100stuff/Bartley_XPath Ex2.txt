@@ -1,0 +1,15 @@
+1.//body/div[@type = "historical_people"] 
+2b. //body/div[@type = "historical_people"]/* i got 2 results should i use the // like in 2c
+2c. //body/div[@type = "art"]//* returns everything below
+2d.//body/div//* => count() = 42095
+3a.//body/div/list[@sortKey = "animals"]/item => count()= 69 item gives each animal name
+3b.//body/div/list[@sortKey = "animals"]/item[last()] wren_crested
+3c.//body/div/list[@sortKey = "plants"]/item[5] apple_tree
+3d. //body/div/list[@sortKey = "plants"]/item[position() <= 6]
+4. //person/occupation[1] most likely returns people with a occupation with corresponding to it first element.
+(//person/occupation)[1] points to the first person and first occupation.
+5//person => count() 1552
+5b. //person/@sex only has 1393 results so not everyone has a sex attribute
+5c.count(//person[@sex]) div count(//person) = .8975
+count(//person[@sex]) div count(//person) * 100 =89.75%
+5d.//person[@sex = "f"] => count() div //person[@sex] => count()* 100 = 29.72%

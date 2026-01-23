@@ -1,0 +1,30 @@
+start = Poem
+Poem = element Poem{Heading,Title, Author, Text, endnote}
+
+Heading = element Heading{mixed{Author, date}}
+Author = element Author{text}
+date = element date{mixed{year, month, day}}
+year = attribute year{xsd:int}
+month = attribute month{text}
+day = attribute day {xsd:int}
+
+Title = element Title{text}
+
+Text = element Text{MC*,line*}
+MC = element MC{text}
+line = element line{n*,mixed{ job*,stamp*,orig*,City*,teachings*,state*,MC*}}
+n = attribute n {xsd:int}
+job = element job{type, Real,text}
+type = attribute type{text}
+Real = attribute Real{text}
+stamp = element stamp{color}
+color = attribute color{text}
+orig = element orig {type, text}
+City = element City{loc, text}
+loc = attribute loc{text}
+teachings = element teachings{type,text}
+state = element state{text}
+
+endnote = element endnote{mixed{state, date}}
+
+

@@ -1,0 +1,21 @@
+1. //cbml:panel/@characters  => distinct-values() 39 doesnt give distinct values
+
+2. //cbml:panel/@characters  ! tokenize(.)
+
+3a. //cbml:panel/@characters[contains(.,"drkelly")] 5 results
+
+3b. //cbml:panel/@characters[starts-with(.,'#')] 56 results
+
+4a. string-length(//cbml:balloon) or //cbml:ballon ! string-length(.) would not work the first one gave an error due to the spanish characters in the string.
+
+4b. cant do 4 because of the spanish charcters
+
+4c. 
+
+5.//cbml:panel/note[contains(.,"skull")] 1 result
+
+5b. //div[//cbml:balloon[contains(., 'NO')]] 20 results
+this one looks for the strings no anywhere in the sections
+
+//div[.//cbml:balloon[contains(., 'NO')]] 10 results
+this one steps down into ballon only looking in there for no

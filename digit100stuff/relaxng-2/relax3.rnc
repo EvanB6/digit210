@@ -1,0 +1,27 @@
+start = xml
+xml = element xml{mixed{title* , intro* , inglist* , steplist* , Results*}}
+
+title = element title{text}
+intro = element intro{mixed{recipebook | chef | date | Owner}}
+recipebook = element recipebook{text}
+chef = element chef{text, type}
+date = element date{text}
+type = attribute type{text}
+Owner = element Owner{text, type}
+
+inglist = element inglist{ing*}
+ing = element ing{mixed{n | unit | amount | name | type? | sticks?}}
+
+n = attribute n{xsd:integer}
+unit = attribute unit {text}
+amount = attribute amount{text}
+name = attribute name{text}
+sticks = attribute sticks{xsd:int}
+
+steplist = element steplist{mixed{ingref* | step*}}
+
+ingref = element ingref {ref,text}
+ref = attribute ref{xsd:int}
+step = element step{n, text}
+
+Results = element Results{text}

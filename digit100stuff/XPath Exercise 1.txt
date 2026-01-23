@@ -1,0 +1,9 @@
+1. /TEI/text/body/div
+2. /TEI/text/body/div/cbml:panel
+3./TEI/text/body/div/cbml:panel[2] 23 results
+4./TEI/text/body/div/cbml:panel/@characters 53 results
+5./TEI/text/body/div/cbml:panel[@characters="#narrator"]
+6./TEI/text/body/div/cbml:panel/floatingText 
+41 floating text
+/TEI/text/body/div/cbml:panel[floatingText] => count()  
+count = 26
