@@ -41,7 +41,7 @@
                 
             
             
-           <g transform="translate(20 800)">
+           <g transform="translate(20 600)">
             
             <xsl:for-each select="descendant::blob">
                 
@@ -50,14 +50,24 @@
                 <circle cx="{$x-spacer}"
                     cy="{$y-spacer * position() * (-1)}" 
                     r="{count(//special[@whatsIt='magicEgg']) * 10}"
-                    fill="rgb({count(descendant::special[@whatsIt='magicEgg'])* 50}, {count(descendant::special[@whatsIt='magicEgg'])* 50}, 0)"
+                    fill="white"
                     stroke="black"
                     stroke-width="2"
                 />
                 <rect width="{count(descendant::special[@whatsIt ='boss']) * $rectx-spacer}" height="{count(descendant::special[@whatsIt ='boss']) * $recty-spacer}" fill="red" stroke="black"></rect>
                 
+                
  
             </xsl:for-each>
+               <xsl:for-each select="descendant::blob">
+               <circle r="{count(//special[@whatsIt='rocketShip'])*10}"
+                    cx="200"
+                    cy="{100 * position() * -1} "
+                    fill="rgb({count(descendant::special[@whatsIt='magicEgg'])* 10}, {count(descendant::special[@whatsIt='magicEgg'])* 10}, 0)"
+                    stroke ="black"></circle>
+               
+               </xsl:for-each>
+               
            </g>
             
             
