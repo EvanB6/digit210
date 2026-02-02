@@ -1,0 +1,29 @@
+find & 
+found and replaced 315 matches with &amp;
+find < 
+found none
+find > 
+found none
+
+find ^(.+?)$
+replace <movie>\1</movie> with 25,095 matches
+
+find (<movie>)(.+?)\t
+replace \1<title>\2</title> with 25,095
+
+find (</title>)(.+?)\t
+replace \1<date>\2</date> with 25,095
+
+find (</date>)(.+?)\t
+replace \1<location>\2</location>
+
+
+press enter on last line
+find (</location>)(.+?)\n
+replace \1<time units  ="min">\2</time>
+
+find (</location>)(.+?)(</movie>)\n
+replace \1<time units ="min">\2</time>\3\n
+
+find \A[\s\S]*\z
+replace <root>\0</root>
