@@ -1,0 +1,5 @@
+find .+?\n\n
+dot matches all
+
+replace <sp>\0</sp>
+manually add xml root tag
