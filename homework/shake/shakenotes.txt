@@ -1,0 +1,20 @@
+remove headings and ending manually
+find & none
+find < none
+find > none
+
+forgot what i put the notepad didn't save when i did it class
+something like 
+find \n\n+ 
+replace with \n
+
+find <line>([IVXLC]+)</line>
+replace </sonnet>\n<sonnet number ="\1"> 154 matches
+
+manually remove </sonnet> at start of file
+
+and added </sonnet> at end of file
+
+turn dot matches all on 
+find ^.*$
+replace <xml>\0</xml> 1 match

@@ -1,5 +1,5 @@
-﻿
-<line>I</line>
+﻿<xml>
+<sonnet number ="I">
 
 <line>From fairest creatures we desire increase,</line>
 <line>That thereby beauty's rose might never die,</line>
@@ -16,7 +16,8 @@
 <line>Pity the world, or else this glutton be,</line>
 <line>To eat the world's due, by the grave and thee.</line>
 
-<line>II</line>
+</sonnet>
+<sonnet number ="II">
 
 <line>When forty winters shall besiege thy brow,</line>
 <line>And dig deep trenches in thy beauty's field,</line>
@@ -33,7 +34,8 @@
 <line>This were to be new made when thou art old,</line>
 <line>And see thy blood warm when thou feel'st it cold.</line>
 
-<line>III</line>
+</sonnet>
+<sonnet number ="III">
 
 <line>Look in thy glass and tell the face thou viewest</line>
 <line>Now is the time that face should form another;</line>
@@ -50,7 +52,8 @@
 <line>But if thou live, remember'd not to be,</line>
 <line>Die single and thine image dies with thee.</line>
 
-<line>IV</line>
+</sonnet>
+<sonnet number ="IV">
 
 <line>Unthrifty loveliness, why dost thou spend</line>
 <line>Upon thy self thy beauty's legacy?</line>
@@ -67,7 +70,8 @@
 <line>Thy unused beauty must be tombed with thee,</line>
 <line>Which, used, lives th' executor to be.</line>
 
-<line>V</line>
+</sonnet>
+<sonnet number ="V">
 
 <line>Those hours, that with gentle work did frame</line>
 <line>The lovely gaze where every eye doth dwell,</line>
@@ -84,7 +88,8 @@
 <line>But flowers distill'd, though they with winter meet,</line>
 <line>Leese but their show; their substance still lives sweet.</line>
 
-<line>VI</line>
+</sonnet>
+<sonnet number ="VI">
 
 <line>Then let not winter's ragged hand deface,</line>
 <line>In thee thy summer, ere thou be distill'd:</line>
@@ -101,7 +106,8 @@
 <line>Be not self-will'd, for thou art much too fair</line>
 <line>To be death's conquest and make worms thine heir.</line>
 
-<line>VII</line>
+</sonnet>
+<sonnet number ="VII">
 
 <line>Lo! in the orient when the gracious light</line>
 <line>Lifts up his burning head, each under eye</line>
@@ -118,7 +124,8 @@
 <line>So thou, thyself outgoing in thy noon:</line>
 <line>Unlook'd, on diest unless thou get a son.</line>
 
-<line>VIII</line>
+</sonnet>
+<sonnet number ="VIII">
 
 <line>Music to hear, why hear'st thou music sadly?</line>
 <line>Sweets with sweets war not, joy delights in joy:</line>
@@ -135,7 +142,8 @@
 <line>Whose speechless song being many, seeming one,</line>
 <line>Sings this to thee: 'Thou single wilt prove none.'</line>
 
-<line>IX</line>
+</sonnet>
+<sonnet number ="IX">
 
 <line>Is it for fear to wet a widow's eye,</line>
 <line>That thou consum'st thy self in single life?</line>
@@ -152,7 +160,8 @@
 <line>No love toward others in that bosom sits</line>
 <line>That on himself such murd'rous shame commits.</line>
 
-<line>X</line>
+</sonnet>
+<sonnet number ="X">
 
 <line>For shame! deny that thou bear'st love to any,</line>
 <line>Who for thy self art so unprovident.</line>
@@ -169,7 +178,8 @@
 <line>Make thee another self for love of me,</line>
 <line>That beauty still may live in thine or thee.</line>
 
-<line>XI</line>
+</sonnet>
+<sonnet number ="XI">
 
 <line>As fast as thou shalt wane, so fast thou grow'st,</line>
 <line>In one of thine, from that which thou departest;</line>
@@ -186,7 +196,8 @@
 <line>She carv'd thee for her seal, and meant thereby,</line>
 <line>Thou shouldst print more, not let that copy die.</line>
 
-<line>XII</line>
+</sonnet>
+<sonnet number ="XII">
 
 <line>When I do count the clock that tells the time,</line>
 <line>And see the brave day sunk in hideous night;</line>
@@ -203,7 +214,8 @@
 <line>And nothing 'gainst Time's scythe can make defence</line>
 <line>Save breed, to brave him when he takes thee hence.</line>
 
-<line>XIII</line>
+</sonnet>
+<sonnet number ="XIII">
 
 <line>O! that you were your self; but, love you are</line>
 <line>No longer yours, than you your self here live:</line>
@@ -220,7 +232,8 @@
 <line>O! none but unthrifts. Dear my love, you know,</line>
 <line>You had a father: let your son say so.</line>
 
-<line>XIV</line>
+</sonnet>
+<sonnet number ="XIV">
 
 <line>Not from the stars do I my judgement pluck;</line>
 <line>And yet methinks I have astronomy,</line>
@@ -237,7 +250,8 @@
 <line>Or else of thee this I prognosticate:</line>
 <line>'Thy end is truth's and beauty's doom and date.'</line>
 
-<line>XV</line>
+</sonnet>
+<sonnet number ="XV">
 
 <line>When I consider every thing that grows</line>
 <line>Holds in perfection but a little moment,</line>
@@ -254,7 +268,8 @@
 <line>And all in war with Time for love of you,</line>
 <line>As he takes from you, I engraft you new.</line>
 
-<line>XVI</line>
+</sonnet>
+<sonnet number ="XVI">
 
 <line>But wherefore do not you a mightier way</line>
 <line>Make war upon this bloody tyrant, Time?</line>
@@ -271,7 +286,8 @@
 <line>To give away yourself, keeps yourself still,</line>
 <line>And you must live, drawn by your own sweet skill.</line>
 
-<line>XVII</line>
+</sonnet>
+<sonnet number ="XVII">
 
 <line>Who will believe my verse in time to come,</line>
 <line>If it were fill'd with your most high deserts?</line>
@@ -288,7 +304,8 @@
 <line>But were some child of yours alive that time,</line>
 <line>You should live twice,--in it, and in my rhyme.</line>
 
-<line>XVIII</line>
+</sonnet>
+<sonnet number ="XVIII">
 
 <line>Shall I compare thee to a summer's day?</line>
 <line>Thou art more lovely and more temperate:</line>
@@ -305,7 +322,8 @@
 <line>So long as men can breathe, or eyes can see,</line>
 <line>So long lives this, and this gives life to thee.</line>
 
-<line>XIX</line>
+</sonnet>
+<sonnet number ="XIX">
 
 <line>Devouring Time, blunt thou the lion's paws,</line>
 <line>And make the earth devour her own sweet brood;</line>
@@ -322,7 +340,8 @@
 <line>Yet, do thy worst old Time: despite thy wrong,</line>
 <line>My love shall in my verse ever live young.</line>
 
-<line>XX</line>
+</sonnet>
+<sonnet number ="XX">
 
 <line>A woman's face with nature's own hand painted,</line>
 <line>Hast thou, the master mistress of my passion;</line>
@@ -339,7 +358,8 @@
 <line>But since she prick'd thee out for women's pleasure,</line>
 <line>Mine be thy love and thy love's use their treasure.</line>
 
-<line>XXI</line>
+</sonnet>
+<sonnet number ="XXI">
 
 <line>So is it not with me as with that Muse,</line>
 <line>Stirr'd by a painted beauty to his verse,</line>
@@ -356,7 +376,8 @@
 <line>Let them say more that like of hearsay well;</line>
 <line>I will not praise that purpose not to sell.</line>
 
-<line>XXII</line>
+</sonnet>
+<sonnet number ="XXII">
 
 <line>My glass shall not persuade me I am old,</line>
 <line>So long as youth and thou are of one date;</line>
@@ -373,7 +394,8 @@
 <line>Presume not on thy heart when mine is slain,</line>
 <line>Thou gav'st me thine not to give back again.</line>
 
-<line>XXIII</line>
+</sonnet>
+<sonnet number ="XXIII">
 
 <line>As an unperfect actor on the stage,</line>
 <line>Who with his fear is put beside his part,</line>
@@ -390,7 +412,8 @@
 <line>O! learn to read what silent love hath writ:</line>
 <line>To hear with eyes belongs to love's fine wit.</line>
 
-<line>XXIV</line>
+</sonnet>
+<sonnet number ="XXIV">
 
 <line>Mine eye hath play'd the painter and hath stell'd,</line>
 <line>Thy beauty's form in table of my heart;</line>
@@ -407,7 +430,8 @@
 <line>Yet eyes this cunning want to grace their art,</line>
 <line>They draw but what they see, know not the heart.</line>
 
-<line>XXV</line>
+</sonnet>
+<sonnet number ="XXV">
 
 <line>Let those who are in favour with their stars</line>
 <line>Of public honour and proud titles boast,</line>
@@ -424,7 +448,8 @@
 <line>Then happy I, that love and am belov'd,</line>
 <line>Where I may not remove nor be remov'd.</line>
 
-<line>XXVI</line>
+</sonnet>
+<sonnet number ="XXVI">
 
 <line>Lord of my love, to whom in vassalage</line>
 <line>Thy merit hath my duty strongly knit,</line>
@@ -441,7 +466,8 @@
 <line>Then may I dare to boast how I do love thee;</line>
 <line>Till then, not show my head where thou mayst prove me.</line>
 
-<line>XXVII</line>
+</sonnet>
+<sonnet number ="XXVII">
 
 <line>Weary with toil, I haste me to my bed,</line>
 <line>The dear respose for limbs with travel tir'd;</line>
@@ -458,7 +484,8 @@
 <line>Lo! thus, by day my limbs, by night my mind,</line>
 <line>For thee, and for myself, no quiet find.</line>
 
-<line>XXVIII</line>
+</sonnet>
+<sonnet number ="XXVIII">
 
 <line>How can I then return in happy plight,</line>
 <line>That am debarre'd the benefit of rest?</line>
@@ -475,7 +502,8 @@
 <line>But day doth daily draw my sorrows longer,</line>
 <line>And night doth nightly make grief's length seem stronger.</line>
 
-<line>XXIX</line>
+</sonnet>
+<sonnet number ="XXIX">
 
 <line>When in disgrace with fortune and men's eyes</line>
 <line>I all alone beweep my outcast state,</line>
@@ -492,7 +520,8 @@
 <line>For thy sweet love remember'd such wealth brings</line>
 <line>That then I scorn to change my state with kings.</line>
 
-<line>XXX</line>
+</sonnet>
+<sonnet number ="XXX">
 
 <line>When to the sessions of sweet silent thought</line>
 <line>I summon up remembrance of things past,</line>
@@ -509,7 +538,8 @@
 <line>But if the while I think on thee, dear friend,</line>
 <line>All losses are restor'd and sorrows end.</line>
 
-<line>XXXI</line>
+</sonnet>
+<sonnet number ="XXXI">
 
 <line>Thy bosom is endeared with all hearts,</line>
 <line>Which I by lacking have supposed dead;</line>
@@ -526,7 +556,8 @@
 <line>Their images I lov'd, I view in thee,</line>
 <line>And thou--all they--hast all the all of me.</line>
 
-<line>XXXII</line>
+</sonnet>
+<sonnet number ="XXXII">
 
 <line>If thou survive my well-contented day,</line>
 <line>When that churl Death my bones with dust shall cover</line>
@@ -543,7 +574,8 @@
 <line>But since he died and poets better prove,</line>
 <line>Theirs for their style I'll read, his for his love'.</line>
 
-<line>XXXIII</line>
+</sonnet>
+<sonnet number ="XXXIII">
 
 <line>Full many a glorious morning have I seen</line>
 <line>Flatter the mountain tops with sovereign eye,</line>
@@ -560,7 +592,8 @@
 <line>Yet him for this my love no whit disdaineth;</line>
 <line>Suns of the world may stain when heaven's sun staineth.</line>
 
-<line>XXXIV</line>
+</sonnet>
+<sonnet number ="XXXIV">
 
 <line>Why didst thou promise such a beauteous day,</line>
 <line>And make me travel forth without my cloak,</line>
@@ -577,7 +610,8 @@
 <line>Ah! but those tears are pearl which thy love sheds,</line>
 <line>And they are rich and ransom all ill deeds.</line>
 
-<line>XXXV</line>
+</sonnet>
+<sonnet number ="XXXV">
 
 <line>No more be griev'd at that which thou hast done:</line>
 <line>Roses have thorns, and silver fountains mud:</line>
@@ -594,7 +628,8 @@
 <line>That I an accessary needs must be,</line>
 <line>To that sweet thief which sourly robs from me.</line>
 
-<line>XXXVI</line>
+</sonnet>
+<sonnet number ="XXXVI">
 
 <line>Let me confess that we two must be twain,</line>
 <line>Although our undivided loves are one:</line>
@@ -611,7 +646,8 @@
 <line>But do not so, I love thee in such sort,</line>
 <line>As thou being mine, mine is thy good report.</line>
 
-<line>XXXVII</line>
+</sonnet>
+<sonnet number ="XXXVII">
 
 <line>As a decrepit father takes delight</line>
 <line>To see his active child do deeds of youth,</line>
@@ -628,7 +664,8 @@
 <line>Look what is best, that best I wish in thee:</line>
 <line>This wish I have; then ten times happy me!</line>
 
-<line>XXXVIII</line>
+</sonnet>
+<sonnet number ="XXXVIII">
 
 <line>How can my muse want subject to invent,</line>
 <line>While thou dost breathe, that pour'st into my verse</line>
@@ -645,7 +682,8 @@
 <line>If my slight muse do please these curious days,</line>
 <line>The pain be mine, but thine shall be the praise.</line>
 
-<line>XXXIX</line>
+</sonnet>
+<sonnet number ="XXXIX">
 
 <line>O! how thy worth with manners may I sing,</line>
 <line>When thou art all the better part of me?</line>
@@ -662,7 +700,8 @@
 <line>And that thou teachest how to make one twain,</line>
 <line>By praising him here who doth hence remain.</line>
 
-<line>XL</line>
+</sonnet>
+<sonnet number ="XL">
 
 <line>Take all my loves, my love, yea take them all;</line>
 <line>What hast thou then more than thou hadst before?</line>
@@ -679,7 +718,8 @@
 <line>Lascivious grace, in whom all ill well shows,</line>
 <line>Kill me with spites yet we must not be foes.</line>
 
-<line>XLI</line>
+</sonnet>
+<sonnet number ="XLI">
 
 <line>Those pretty wrongs that liberty commits,</line>
 <line>When I am sometime absent from thy heart,</line>
@@ -696,7 +736,8 @@
 <line>Hers by thy beauty tempting her to thee,</line>
 <line>Thine by thy beauty being false to me.</line>
 
-<line>XLII</line>
+</sonnet>
+<sonnet number ="XLII">
 
 <line>That thou hast her it is not all my grief,</line>
 <line>And yet it may be said I loved her dearly;</line>
@@ -713,7 +754,8 @@
 <line>But here's the joy; my friend and I are one;</line>
 <line>Sweet flattery! then she loves but me alone.</line>
 
-<line>XLIII</line>
+</sonnet>
+<sonnet number ="XLIII">
 
 <line>When most I wink, then do mine eyes best see,</line>
 <line>For all the day they view things unrespected;</line>
@@ -730,7 +772,8 @@
 <line>All days are nights to see till I see thee,</line>
 <line>And nights bright days when dreams do show thee me.</line>
 
-<line>XLIV</line>
+</sonnet>
+<sonnet number ="XLIV">
 
 <line>If the dull substance of my flesh were thought,</line>
 <line>Injurious distance should not stop my way;</line>
@@ -747,7 +790,8 @@
 <line>Receiving nought by elements so slow</line>
 <line>But heavy tears, badges of either's woe.</line>
 
-<line>XLV</line>
+</sonnet>
+<sonnet number ="XLV">
 
 <line>The other two, slight air, and purging fire</line>
 <line>Are both with thee, wherever I abide;</line>
@@ -764,7 +808,8 @@
 <line>This told, I joy; but then no longer glad,</line>
 <line>I send them back again, and straight grow sad.</line>
 
-<line>XLVI</line>
+</sonnet>
+<sonnet number ="XLVI">
 
 <line>Mine eye and heart are at a mortal war,</line>
 <line>How to divide the conquest of thy sight;</line>
@@ -781,7 +826,8 @@
 <line>As thus; mine eye's due is thy outward part,</line>
 <line>And my heart's right, thy inward love of heart.</line>
 
-<line>XLVII</line>
+</sonnet>
+<sonnet number ="XLVII">
 
 <line>Betwixt mine eye and heart a league is took,</line>
 <line>And each doth good turns now unto the other:</line>
@@ -798,7 +844,8 @@
 <line>Or, if they sleep, thy picture in my sight</line>
 <line>Awakes my heart, to heart's and eye's delight.</line>
 
-<line>XLVIII</line>
+</sonnet>
+<sonnet number ="XLVIII">
 
 <line>How careful was I when I took my way,</line>
 <line>Each trifle under truest bars to thrust,</line>
@@ -815,7 +862,8 @@
 <line>And even thence thou wilt be stol'n I fear,</line>
 <line>For truth proves thievish for a prize so dear.</line>
 
-<line>XLIX</line>
+</sonnet>
+<sonnet number ="XLIX">
 
 <line>Against that time, if ever that time come,</line>
 <line>When I shall see thee frown on my defects,</line>
@@ -832,7 +880,8 @@
 <line>To leave poor me thou hast the strength of laws,</line>
 <line>Since why to love I can allege no cause.</line>
 
-<line>L</line>
+</sonnet>
+<sonnet number ="L">
 
 <line>How heavy do I journey on the way,</line>
 <line>When what I seek, my weary travel's end,</line>
@@ -849,7 +898,8 @@
 <line>For that same groan doth put this in my mind,</line>
 <line>My grief lies onward, and my joy behind.</line>
 
-<line>LI</line>
+</sonnet>
+<sonnet number ="LI">
 
 <line>Thus can my love excuse the slow offence</line>
 <line>Of my dull bearer when from thee I speed:</line>
@@ -866,7 +916,8 @@
 <line>'Since from thee going, he went wilful-slow,</line>
 <line>Towards thee I'll run, and give him leave to go.'</line>
 
-<line>LII</line>
+</sonnet>
+<sonnet number ="LII">
 
 <line>So am I as the rich, whose blessed key,</line>
 <line>Can bring him to his sweet up-locked treasure,</line>
@@ -883,7 +934,8 @@
 <line>Blessed are you whose worthiness gives scope,</line>
 <line>Being had, to triumph; being lacked, to hope.</line>
 
-<line>LIII</line>
+</sonnet>
+<sonnet number ="LIII">
 
 <line>What is your substance, whereof are you made,</line>
 <line>That millions of strange shadows on you tend?</line>
@@ -900,7 +952,8 @@
 <line>In all external grace you have some part,</line>
 <line>But you like none, none you, for constant heart.</line>
 
-<line>LIV</line>
+</sonnet>
+<sonnet number ="LIV">
 
 <line>O! how much more doth beauty beauteous seem</line>
 <line>By that sweet ornament which truth doth give.</line>
@@ -917,7 +970,8 @@
 <line>And so of you, beauteous and lovely youth,</line>
 <line>When that shall vade, by verse distills your truth.</line>
 
-<line>LV</line>
+</sonnet>
+<sonnet number ="LV">
 
 <line>Not marble, nor the gilded monuments</line>
 <line>Of princes, shall outlive this powerful rhyme;</line>
@@ -934,7 +988,8 @@
 <line>So, till the judgment that yourself arise,</line>
 <line>You live in this, and dwell in lovers' eyes.</line>
 
-<line>LVI</line>
+</sonnet>
+<sonnet number ="LVI">
 
 <line>Sweet love, renew thy force; be it not said</line>
 <line>Thy edge should blunter be than appetite,</line>
@@ -951,7 +1006,8 @@
 <line>Or call it winter, which being full of care,</line>
 <line>Makes summer's welcome, thrice more wished, more rare.</line>
 
-<line>LVII</line>
+</sonnet>
+<sonnet number ="LVII">
 
 <line>Being your slave what should I do but tend,</line>
 <line>Upon the hours, and times of your desire?</line>
@@ -968,7 +1024,8 @@
 <line>So true a fool is love, that in your will,</line>
 <line>Though you do anything, he thinks no ill.</line>
 
-<line>LVIII</line>
+</sonnet>
+<sonnet number ="LVIII">
 
 <line>That god forbid, that made me first your slave,</line>
 <line>I should in thought control your times of pleasure,</line>
@@ -985,7 +1042,8 @@
 <line>I am to wait, though waiting so be hell,</line>
 <line>Not blame your pleasure be it ill or well.</line>
 
-<line>LIX</line>
+</sonnet>
+<sonnet number ="LIX">
 
 <line>If there be nothing new, but that which is</line>
 <line>Hath been before, how are our brains beguil'd,</line>
@@ -1002,7 +1060,8 @@
 <line>O! sure I am the wits of former days,</line>
 <line>To subjects worse have given admiring praise.</line>
 
-<line>LX</line>
+</sonnet>
+<sonnet number ="LX">
 
 <line>Like as the waves make towards the pebbled shore,</line>
 <line>So do our minutes hasten to their end;</line>
@@ -1019,7 +1078,8 @@
 <line>And yet to times in hope, my verse shall stand.</line>
 <line>Praising thy worth, despite his cruel hand.</line>
 
-<line>LXI</line>
+</sonnet>
+<sonnet number ="LXI">
 
 <line>Is it thy will, thy image should keep open</line>
 <line>My heavy eyelids to the weary night?</line>
@@ -1036,7 +1096,8 @@
 <line>For thee watch I, whilst thou dost wake elsewhere,</line>
 <line>From me far off, with others all too near.</line>
 
-<line>LXII</line>
+</sonnet>
+<sonnet number ="LXII">
 
 <line>Sin of self-love possesseth all mine eye</line>
 <line>And all my soul, and all my every part;</line>
@@ -1053,7 +1114,8 @@
 <line>'Tis thee,--myself,--that for myself I praise,</line>
 <line>Painting my age with beauty of thy days.</line>
 
-<line>LXIII</line>
+</sonnet>
+<sonnet number ="LXIII">
 
 <line>Against my love shall be as I am now,</line>
 <line>With Time's injurious hand crush'd and o'erworn;</line>
@@ -1070,7 +1132,8 @@
 <line>His beauty shall in these black lines be seen,</line>
 <line>And they shall live, and he in them still green.</line>
 
-<line>LXIV</line>
+</sonnet>
+<sonnet number ="LXIV">
 
 <line>When I have seen by Time's fell hand defac'd</line>
 <line>The rich-proud cost of outworn buried age;</line>
@@ -1087,7 +1150,8 @@
 <line>This thought is as a death which cannot choose</line>
 <line>But weep to have, that which it fears to lose.</line>
 
-<line>LXV</line>
+</sonnet>
+<sonnet number ="LXV">
 
 <line>Since brass, nor stone, nor earth, nor boundless sea,</line>
 <line>But sad mortality o'ersways their power,</line>
@@ -1104,7 +1168,8 @@
 <line>O! none, unless this miracle have might,</line>
 <line>That in black ink my love may still shine bright.</line>
 
-<line>LXVI</line>
+</sonnet>
+<sonnet number ="LXVI">
 
 <line>Tired with all these, for restful death I cry,</line>
 <line>As to behold desert a beggar born,</line>
@@ -1121,7 +1186,8 @@
 <line>Tir'd with all these, from these would I be gone,</line>
 <line>Save that, to die, I leave my love alone.</line>
 
-<line>LXVII</line>
+</sonnet>
+<sonnet number ="LXVII">
 
 <line>Ah! wherefore with infection should he live,</line>
 <line>And with his presence grace impiety,</line>
@@ -1138,7 +1204,8 @@
 <line>O! him she stores, to show what wealth she had</line>
 <line>In days long since, before these last so bad.</line>
 
-<line>LXVIII</line>
+</sonnet>
+<sonnet number ="LXVIII">
 
 <line>Thus is his cheek the map of days outworn,</line>
 <line>When beauty lived and died as flowers do now,</line>
@@ -1155,7 +1222,8 @@
 <line>And him as for a map doth Nature store,</line>
 <line>To show false Art what beauty was of yore.</line>
 
-<line>LXIX</line>
+</sonnet>
+<sonnet number ="LXIX">
 
 <line>Those parts of thee that the world's eye doth view</line>
 <line>Want nothing that the thought of hearts can mend;</line>
@@ -1172,7 +1240,8 @@
 <line>But why thy odour matcheth not thy show,</line>
 <line>The soil is this, that thou dost common grow.</line>
 
-<line>LXX</line>
+</sonnet>
+<sonnet number ="LXX">
 
 <line>That thou art blam'd shall not be thy defect,</line>
 <line>For slander's mark was ever yet the fair;</line>
@@ -1189,7 +1258,8 @@
 <line>If some suspect of ill mask'd not thy show,</line>
 <line>Then thou alone kingdoms of hearts shouldst owe.</line>
 
-<line>LXXI</line>
+</sonnet>
+<sonnet number ="LXXI">
 
 <line>No longer mourn for me when I am dead</line>
 <line>Than you shall hear the surly sullen bell</line>
@@ -1206,7 +1276,8 @@
 <line>Lest the wise world should look into your moan,</line>
 <line>And mock you with me after I am gone.</line>
 
-<line>LXXII</line>
+</sonnet>
+<sonnet number ="LXXII">
 
 <line>O! lest the world should task you to recite</line>
 <line>What merit lived in me, that you should love</line>
@@ -1223,7 +1294,8 @@
 <line>For I am shamed by that which I bring forth,</line>
 <line>And so should you, to love things nothing worth.</line>
 
-<line>LXXIII</line>
+</sonnet>
+<sonnet number ="LXXIII">
 
 <line>That time of year thou mayst in me behold</line>
 <line>When yellow leaves, or none, or few, do hang</line>
@@ -1240,7 +1312,8 @@
 <line>This thou perceiv'st, which makes thy love more strong,</line>
 <line>To love that well, which thou must leave ere long.</line>
 
-<line>LXXIV</line>
+</sonnet>
+<sonnet number ="LXXIV">
 
 <line>But be contented: when that fell arrest</line>
 <line>Without all bail shall carry me away,</line>
@@ -1257,7 +1330,8 @@
 <line>The worth of that is that which it contains,</line>
 <line>And that is this, and this with thee remains.</line>
 
-<line>LXXV</line>
+</sonnet>
+<sonnet number ="LXXV">
 
 <line>So are you to my thoughts as food to life,</line>
 <line>Or as sweet-season'd showers are to the ground;</line>
@@ -1274,7 +1348,8 @@
 <line>Thus do I pine and surfeit day by day,</line>
 <line>Or gluttoning on all, or all away.</line>
 
-<line>LXXVI</line>
+</sonnet>
+<sonnet number ="LXXVI">
 
 <line>Why is my verse so barren of new pride,</line>
 <line>So far from variation or quick change?</line>
@@ -1291,7 +1366,8 @@
 <line>For as the sun is daily new and old,</line>
 <line>So is my love still telling what is told.</line>
 
-<line>LXXVII</line>
+</sonnet>
+<sonnet number ="LXXVII">
 
 <line>Thy glass will show thee how thy beauties wear,</line>
 <line>Thy dial how thy precious minutes waste;</line>
@@ -1308,7 +1384,8 @@
 <line>These offices, so oft as thou wilt look,</line>
 <line>Shall profit thee and much enrich thy book.</line>
 
-<line>LXXVIII</line>
+</sonnet>
+<sonnet number ="LXXVIII">
 
 <line>So oft have I invoked thee for my Muse,</line>
 <line>And found such fair assistance in my verse</line>
@@ -1325,7 +1402,8 @@
 <line>But thou art all my art, and dost advance</line>
 <line>As high as learning, my rude ignorance.</line>
 
-<line>LXXIX</line>
+</sonnet>
+<sonnet number ="LXXIX">
 
 <line>Whilst I alone did call upon thy aid,</line>
 <line>My verse alone had all thy gentle grace;</line>
@@ -1342,7 +1420,8 @@
 <line>Then thank him not for that which he doth say,</line>
 <line>Since what he owes thee, thou thyself dost pay.</line>
 
-<line>LXXX</line>
+</sonnet>
+<sonnet number ="LXXX">
 
 <line>O! how I faint when I of you do write,</line>
 <line>Knowing a better spirit doth use your name,</line>
@@ -1359,7 +1438,8 @@
 <line>Then if he thrive and I be cast away,</line>
 <line>The worst was this,--my love was my decay.</line>
 
-<line>LXXXI</line>
+</sonnet>
+<sonnet number ="LXXXI">
 
 <line>Or I shall live your epitaph to make,</line>
 <line>Or you survive when I in earth am rotten;</line>
@@ -1376,7 +1456,8 @@
 <line>You still shall live,--such virtue hath my pen,--</line>
 <line>Where breath most breathes, even in the mouths of men.</line>
 
-<line>LXXXII</line>
+</sonnet>
+<sonnet number ="LXXXII">
 
 <line>I grant thou wert not married to my Muse,</line>
 <line>And therefore mayst without attaint o'erlook</line>
@@ -1393,7 +1474,8 @@
 <line>And their gross painting might be better us'd</line>
 <line>Where cheeks need blood; in thee it is abus'd.</line>
 
-<line>LXXXIII</line>
+</sonnet>
+<sonnet number ="LXXXIII">
 
 <line>I never saw that you did painting need,</line>
 <line>And therefore to your fair no painting set;</line>
@@ -1410,7 +1492,8 @@
 <line>There lives more life in one of your fair eyes</line>
 <line>Than both your poets can in praise devise.</line>
 
-<line>LXXXIV</line>
+</sonnet>
+<sonnet number ="LXXXIV">
 
 <line>Who is it that says most, which can say more,</line>
 <line>Than this rich praise,--that you alone, are you?</line>
@@ -1427,7 +1510,8 @@
 <line>You to your beauteous blessings add a curse,</line>
 <line>Being fond on praise, which makes your praises worse.</line>
 
-<line>LXXXV</line>
+</sonnet>
+<sonnet number ="LXXXV">
 
 <line>My tongue-tied Muse in manners holds her still,</line>
 <line>While comments of your praise richly compil'd,</line>
@@ -1444,7 +1528,8 @@
 <line>Then others, for the breath of words respect,</line>
 <line>Me for my dumb thoughts, speaking in effect.</line>
 
-<line>LXXXVI</line>
+</sonnet>
+<sonnet number ="LXXXVI">
 
 <line>Was it the proud full sail of his great verse,</line>
 <line>Bound for the prize of all too precious you,</line>
@@ -1461,7 +1546,8 @@
 <line>But when your countenance fill'd up his line,</line>
 <line>Then lacked I matter; that enfeebled mine.</line>
 
-<line>LXXXVII</line>
+</sonnet>
+<sonnet number ="LXXXVII">
 
 <line>Farewell! thou art too dear for my possessing,</line>
 <line>And like enough thou know'st thy estimate,</line>
@@ -1478,7 +1564,8 @@
 <line>Thus have I had thee, as a dream doth flatter,</line>
 <line>In sleep a king, but waking no such matter.</line>
 
-<line>LXXXVIII</line>
+</sonnet>
+<sonnet number ="LXXXVIII">
 
 <line>When thou shalt be dispos'd to set me light,</line>
 <line>And place my merit in the eye of scorn,</line>
@@ -1495,7 +1582,8 @@
 <line>Such is my love, to thee I so belong,</line>
 <line>That for thy right, myself will bear all wrong.</line>
 
-<line>LXXXIX</line>
+</sonnet>
+<sonnet number ="LXXXIX">
 
 <line>Say that thou didst forsake me for some fault,</line>
 <line>And I will comment upon that offence:</line>
@@ -1512,7 +1600,8 @@
 <line>For thee, against my self I'll vow debate,</line>
 <line>For I must ne'er love him whom thou dost hate.</line>
 
-<line>XC</line>
+</sonnet>
+<sonnet number ="XC">
 
 <line>Then hate me when thou wilt; if ever, now;</line>
 <line>Now, while the world is bent my deeds to cross,</line>
@@ -1529,7 +1618,8 @@
 <line>And other strains of woe, which now seem woe,</line>
 <line>Compar'd with loss of thee, will not seem so.</line>
 
-<line>XCI</line>
+</sonnet>
+<sonnet number ="XCI">
 
 <line>Some glory in their birth, some in their skill,</line>
 <line>Some in their wealth, some in their body's force,</line>
@@ -1546,7 +1636,8 @@
 <line>Wretched in this alone, that thou mayst take</line>
 <line>All this away, and me most wretchcd make.</line>
 
-<line>XCII</line>
+</sonnet>
+<sonnet number ="XCII">
 
 <line>But do thy worst to steal thyself away,</line>
 <line>For term of life thou art assured mine;</line>
@@ -1563,7 +1654,8 @@
 <line>But what's so blessed-fair that fears no blot?</line>
 <line>Thou mayst be false, and yet I know it not.</line>
 
-<line>XCIII</line>
+</sonnet>
+<sonnet number ="XCIII">
 
 <line>So shall I live, supposing thou art true,</line>
 <line>Like a deceived husband; so love's face</line>
@@ -1580,7 +1672,8 @@
 <line>How like Eve's apple doth thy beauty grow,</line>
 <line>If thy sweet virtue answer not thy show!</line>
 
-<line>XCIV</line>
+</sonnet>
+<sonnet number ="XCIV">
 
 <line>They that have power to hurt, and will do none,</line>
 <line>That do not do the thing they most do show,</line>
@@ -1597,7 +1690,8 @@
 <line>For sweetest things turn sourest by their deeds;</line>
 <line>Lilies that fester, smell far worse than weeds.</line>
 
-<line>XCV</line>
+</sonnet>
+<sonnet number ="XCV">
 
 <line>How sweet and lovely dost thou make the shame</line>
 <line>Which, like a canker in the fragrant rose,</line>
@@ -1614,7 +1708,8 @@
 <line>Take heed, dear heart, of this large privilege;</line>
 <line>The hardest knife ill-us'd doth lose his edge.</line>
 
-<line>XCVI</line>
+</sonnet>
+<sonnet number ="XCVI">
 
 <line>Some say thy fault is youth, some wantonness;</line>
 <line>Some say thy grace is youth and gentle sport;</line>
@@ -1631,7 +1726,8 @@
 <line>But do not so; I love thee in such sort,</line>
 <line>As, thou being mine, mine is thy good report.</line>
 
-<line>XCVII</line>
+</sonnet>
+<sonnet number ="XCVII">
 
 <line>How like a winter hath my absence been</line>
 <line>From thee, the pleasure of the fleeting year!</line>
@@ -1648,7 +1744,8 @@
 <line>Or, if they sing, 'tis with so dull a cheer,</line>
 <line>That leaves look pale, dreading the winter's near.</line>
 
-<line>XCVIII</line>
+</sonnet>
+<sonnet number ="XCVIII">
 
 <line>From you have I been absent in the spring,</line>
 <line>When proud-pied April, dress'd in all his trim,</line>
@@ -1665,7 +1762,8 @@
 <line>Yet seem'd it winter still, and you away,</line>
 <line>As with your shadow I with these did play.</line>
 
-<line>XCIX</line>
+</sonnet>
+<sonnet number ="XCIX">
 
 <line>The forward violet thus did I chide:</line>
 <line>Sweet thief, whence didst thou steal thy sweet that smells,</line>
@@ -1683,7 +1781,8 @@
 <line>More flowers I noted, yet I none could see,</line>
 <line>But sweet, or colour it had stol'n from thee.</line>
 
-<line>C</line>
+</sonnet>
+<sonnet number ="C">
 
 <line>Where art thou Muse that thou forget'st so long,</line>
 <line>To speak of that which gives thee all thy might?</line>
@@ -1700,7 +1799,8 @@
 <line>Give my love fame faster than Time wastes life,</line>
 <line>So thou prevent'st his scythe and crooked knife.</line>
 
-<line>CI</line>
+</sonnet>
+<sonnet number ="CI">
 
 <line>O truant Muse what shall be thy amends</line>
 <line>For thy neglect of truth in beauty dy'd?</line>
@@ -1717,7 +1817,8 @@
 <line>Then do thy office, Muse; I teach thee how</line>
 <line>To make him seem long hence as he shows now.</line>
 
-<line>CII</line>
+</sonnet>
+<sonnet number ="CII">
 
 <line>My love is strengthen'd, though more weak in seeming;</line>
 <line>I love not less, though less the show appear;</line>
@@ -1734,7 +1835,8 @@
 <line>Therefore like her, I sometime hold my tongue:</line>
 <line>Because I would not dull you with my song.</line>
 
-<line>CIII</line>
+</sonnet>
+<sonnet number ="CIII">
 
 <line>Alack! what poverty my Muse brings forth,</line>
 <line>That having such a scope to show her pride,</line>
@@ -1751,7 +1853,8 @@
 <line>And more, much more, than in my verse can sit,</line>
 <line>Your own glass shows you when you look in it.</line>
 
-<line>CIV</line>
+</sonnet>
+<sonnet number ="CIV">
 
 <line>To me, fair friend, you never can be old,</line>
 <line>For as you were when first your eye I ey'd,</line>
@@ -1768,7 +1871,8 @@
 <line>For fear of which, hear this thou age unbred:</line>
 <line>Ere you were born was beauty's summer dead.</line>
 
-<line>CV</line>
+</sonnet>
+<sonnet number ="CV">
 
 <line>Let not my love be call'd idolatry,</line>
 <line>Nor my beloved as an idol show,</line>
@@ -1785,7 +1889,8 @@
 <line>Fair, kind, and true, have often liv'd alone,</line>
 <line>Which three till now, never kept seat in one.</line>
 
-<line>CVI</line>
+</sonnet>
+<sonnet number ="CVI">
 
 <line>When in the chronicle of wasted time</line>
 <line>I see descriptions of the fairest wights,</line>
@@ -1802,7 +1907,8 @@
 <line>For we, which now behold these present days,</line>
 <line>Have eyes to wonder, but lack tongues to praise.</line>
 
-<line>CVII</line>
+</sonnet>
+<sonnet number ="CVII">
 
 <line>Not mine own fears, nor the prophetic soul</line>
 <line>Of the wide world dreaming on things to come,</line>
@@ -1819,7 +1925,8 @@
 <line>And thou in this shalt find thy monument,</line>
 <line>When tyrants' crests and tombs of brass are spent.</line>
 
-<line>CVIII</line>
+</sonnet>
+<sonnet number ="CVIII">
 
 <line>What's in the brain, that ink may character,</line>
 <line>Which hath not figur'd to thee my true spirit?</line>
@@ -1836,7 +1943,8 @@
 <line>Finding the first conceit of love there bred,</line>
 <line>Where time and outward form would show it dead.</line>
 
-<line>CIX</line>
+</sonnet>
+<sonnet number ="CIX">
 
 <line>O! never say that I was false of heart,</line>
 <line>Though absence seem'd my flame to qualify,</line>
@@ -1853,7 +1961,8 @@
 <line>For nothing this wide universe I call,</line>
 <line>Save thou, my rose, in it thou art my all.</line>
 
-<line>CX</line>
+</sonnet>
+<sonnet number ="CX">
 
 <line>Alas! 'tis true, I have gone here and there,</line>
 <line>And made my self a motley to the view,</line>
@@ -1870,7 +1979,8 @@
 <line>Then give me welcome, next my heaven the best,</line>
 <line>Even to thy pure and most most loving breast.</line>
 
-<line>CXI</line>
+</sonnet>
+<sonnet number ="CXI">
 
 <line>O! for my sake do you with Fortune chide,</line>
 <line>The guilty goddess of my harmful deeds,</line>
@@ -1887,7 +1997,8 @@
 <line>Pity me then, dear friend, and I assure ye,</line>
 <line>Even that your pity is enough to cure me.</line>
 
-<line>CXII</line>
+</sonnet>
+<sonnet number ="CXII">
 
 <line>Your love and pity doth the impression fill,</line>
 <line>Which vulgar scandal stamp'd upon my brow;</line>
@@ -1904,7 +2015,8 @@
 <line>You are so strongly in my purpose bred,</line>
 <line>That all the world besides methinks are dead.</line>
 
-<line>CXIII</line>
+</sonnet>
+<sonnet number ="CXIII">
 
 <line>Since I left you, mine eye is in my mind;</line>
 <line>And that which governs me to go about</line>
@@ -1921,7 +2033,8 @@
 <line>Incapable of more, replete with you,</line>
 <line>My most true mind thus maketh mine untrue.</line>
 
-<line>CXIV</line>
+</sonnet>
+<sonnet number ="CXIV">
 
 <line>Or whether doth my mind, being crown'd with you,</line>
 <line>Drink up the monarch's plague, this flattery?</line>
@@ -1938,7 +2051,8 @@
 <line>If it be poison'd, 'tis the lesser sin</line>
 <line>That mine eye loves it and doth first begin.</line>
 
-<line>CXV</line>
+</sonnet>
+<sonnet number ="CXV">
 
 <line>Those lines that I before have writ do lie,</line>
 <line>Even those that said I could not love you dearer:</line>
@@ -1955,7 +2069,8 @@
 <line>Love is a babe, then might I not say so,</line>
 <line>To give full growth to that which still doth grow?</line>
 
-<line>CXVI</line>
+</sonnet>
+<sonnet number ="CXVI">
 
 <line>Let me not to the marriage of true minds</line>
 <line>Admit impediments. Love is not love</line>
@@ -1972,7 +2087,8 @@
 <line>If this be error and upon me prov'd,</line>
 <line>I never writ, nor no man ever lov'd.</line>
 
-<line>CXVII</line>
+</sonnet>
+<sonnet number ="CXVII">
 
 <line>Accuse me thus: that I have scanted all,</line>
 <line>Wherein I should your great deserts repay,</line>
@@ -1989,7 +2105,8 @@
 <line>Since my appeal says I did strive to prove</line>
 <line>The constancy and virtue of your love.</line>
 
-<line>CXVIII</line>
+</sonnet>
+<sonnet number ="CXVIII">
 
 <line>Like as, to make our appetite more keen,</line>
 <line>With eager compounds we our palate urge;</line>
@@ -2006,7 +2123,8 @@
 <line>But thence I learn and find the lesson true,</line>
 <line>Drugs poison him that so fell sick of you.</line>
 
-<line>CXIX</line>
+</sonnet>
+<sonnet number ="CXIX">
 
 <line>What potions have I drunk of Siren tears,</line>
 <line>Distill'd from limbecks foul as hell within,</line>
@@ -2023,7 +2141,8 @@
 <line>So I return rebuk'd to my content,</line>
 <line>And gain by ill thrice more than I have spent.</line>
 
-<line>CXX</line>
+</sonnet>
+<sonnet number ="CXX">
 
 <line>That you were once unkind befriends me now,</line>
 <line>And for that sorrow, which I then did feel,</line>
@@ -2040,7 +2159,8 @@
 <line>But that your trespass now becomes a fee;</line>
 <line>Mine ransoms yours, and yours must ransom me.</line>
 
-<line>CXXI</line>
+</sonnet>
+<sonnet number ="CXXI">
 
 <line>'Tis better to be vile than vile esteem'd,</line>
 <line>When not to be receives reproach of being;</line>
@@ -2057,7 +2177,8 @@
 <line>Unless this general evil they maintain,</line>
 <line>All men are bad and in their badness reign.</line>
 
-<line>CXXII</line>
+</sonnet>
+<sonnet number ="CXXII">
 
 <line>Thy gift, thy tables, are within my brain</line>
 <line>Full character'd with lasting memory,</line>
@@ -2074,7 +2195,8 @@
 <line>To keep an adjunct to remember thee</line>
 <line>Were to import forgetfulness in me.</line>
 
-<line>CXXIII</line>
+</sonnet>
+<sonnet number ="CXXIII">
 
 <line>No, Time, thou shalt not boast that I do change:</line>
 <line>Thy pyramids built up with newer might</line>
@@ -2091,7 +2213,8 @@
 <line>This I do vow and this shall ever be;</line>
 <line>I will be true despite thy scythe and thee.</line>
 
-<line>CXXIV</line>
+</sonnet>
+<sonnet number ="CXXIV">
 
 <line>If my dear love were but the child of state,</line>
 <line>It might for Fortune's bastard be unfather'd,</line>
@@ -2108,7 +2231,8 @@
 <line>To this I witness call the fools of time,</line>
 <line>Which die for goodness, who have lived for crime.</line>
 
-<line>CXXV</line>
+</sonnet>
+<sonnet number ="CXXV">
 
 <line>Were't aught to me I bore the canopy,</line>
 <line>With my extern the outward honouring,</line>
@@ -2125,7 +2249,8 @@
 <line>Hence, thou suborned informer! a true soul</line>
 <line>When most impeach'd, stands least in thy control.</line>
 
-<line>CXXVI</line>
+</sonnet>
+<sonnet number ="CXXVI">
 
 <line>O thou, my lovely boy, who in thy power</line>
 <line>Dost hold Time's fickle glass, his fickle hour;</line>
@@ -2140,7 +2265,8 @@
 <line>Her audit (though delayed) answered must be,</line>
 <line>And her quietus is to render thee.</line>
 
-<line>CXXVII</line>
+</sonnet>
+<sonnet number ="CXXVII">
 
 <line>In the old age black was not counted fair,</line>
 <line>Or if it were, it bore not beauty's name;</line>
@@ -2157,7 +2283,8 @@
 <line>Yet so they mourn becoming of their woe,</line>
 <line>That every tongue says beauty should look so.</line>
 
-<line>CXXVIII</line>
+</sonnet>
+<sonnet number ="CXXVIII">
 
 <line>How oft when thou, my music, music play'st,</line>
 <line>Upon that blessed wood whose motion sounds</line>
@@ -2174,7 +2301,8 @@
 <line>Since saucy jacks so happy are in this,</line>
 <line>Give them thy fingers, me thy lips to kiss.</line>
 
-<line>CXXIX</line>
+</sonnet>
+<sonnet number ="CXXIX">
 
 <line>The expense of spirit in a waste of shame</line>
 <line>Is lust in action: and till action, lust</line>
@@ -2191,7 +2319,8 @@
 <line>All this the world well knows; yet none knows well</line>
 <line>To shun the heaven that leads men to this hell.</line>
 
-<line>CXXX</line>
+</sonnet>
+<sonnet number ="CXXX">
 
 <line>My mistress' eyes are nothing like the sun;</line>
 <line>Coral is far more red, than her lips red:</line>
@@ -2208,7 +2337,8 @@
 <line>And yet by heaven, I think my love as rare,</line>
 <line>As any she belied with false compare.</line>
 
-<line>CXXXI</line>
+</sonnet>
+<sonnet number ="CXXXI">
 
 <line>Thou art as tyrannous, so as thou art,</line>
 <line>As those whose beauties proudly make them cruel;</line>
@@ -2225,7 +2355,8 @@
 <line>In nothing art thou black save in thy deeds,</line>
 <line>And thence this slander, as I think, proceeds.</line>
 
-<line>CXXXII</line>
+</sonnet>
+<sonnet number ="CXXXII">
 
 <line>Thine eyes I love, and they, as pitying me,</line>
 <line>Knowing thy heart torment me with disdain,</line>
@@ -2242,7 +2373,8 @@
 <line>Then will I swear beauty herself is black,</line>
 <line>And all they foul that thy complexion lack.</line>
 
-<line>CXXXIII</line>
+</sonnet>
+<sonnet number ="CXXXIII">
 
 <line>Beshrew that heart that makes my heart to groan</line>
 <line>For that deep wound it gives my friend and me!</line>
@@ -2259,7 +2391,8 @@
 <line>And yet thou wilt; for I, being pent in thee,</line>
 <line>Perforce am thine, and all that is in me.</line>
 
-<line>CXXXIV</line>
+</sonnet>
+<sonnet number ="CXXXIV">
 
 <line>So, now I have confess'd that he is thine,</line>
 <line>And I my self am mortgag'd to thy will,</line>
@@ -2276,7 +2409,8 @@
 <line>Him have I lost; thou hast both him and me:</line>
 <line>He pays the whole, and yet am I not free.</line>
 
-<line>CXXXV</line>
+</sonnet>
+<sonnet number ="CXXXV">
 
 <line>Whoever hath her wish, thou hast thy 'Will,'</line>
 <line>And 'Will' to boot, and 'Will' in over-plus;</line>
@@ -2293,7 +2427,8 @@
 <line>Let no unkind 'No' fair beseechers kill;</line>
 <line>Think all but one, and me in that one 'Will.'</line>
 
-<line>CXXXVI</line>
+</sonnet>
+<sonnet number ="CXXXVI">
 
 <line>If thy soul check thee that I come so near,</line>
 <line>Swear to thy blind soul that I was thy 'Will',</line>
@@ -2310,7 +2445,8 @@
 <line>Make but my name thy love, and love that still,</line>
 <line>And then thou lov'st me for my name is 'Will.'</line>
 
-<line>CXXXVII</line>
+</sonnet>
+<sonnet number ="CXXXVII">
 
 <line>Thou blind fool, Love, what dost thou to mine eyes,</line>
 <line>That they behold, and see not what they see?</line>
@@ -2327,7 +2463,8 @@
 <line>In things right true my heart and eyes have err'd,</line>
 <line>And to this false plague are they now transferr'd.</line>
 
-<line>CXXXVIII</line>
+</sonnet>
+<sonnet number ="CXXXVIII">
 
 <line>When my love swears that she is made of truth,</line>
 <line>I do believe her though I know she lies,</line>
@@ -2344,7 +2481,8 @@
 <line>Therefore I lie with her, and she with me,</line>
 <line>And in our faults by lies we flatter'd be.</line>
 
-<line>CXXXIX</line>
+</sonnet>
+<sonnet number ="CXXXIX">
 
 <line>O! call not me to justify the wrong</line>
 <line>That thy unkindness lays upon my heart;</line>
@@ -2361,7 +2499,8 @@
 <line>Yet do not so; but since I am near slain,</line>
 <line>Kill me outright with looks, and rid my pain.</line>
 
-<line>CXL</line>
+</sonnet>
+<sonnet number ="CXL">
 
 <line>Be wise as thou art cruel; do not press</line>
 <line>My tongue-tied patience with too much disdain;</line>
@@ -2378,7 +2517,8 @@
 <line>That I may not be so, nor thou belied,</line>
 <line>Bear thine eyes straight, though thy proud heart go wide.</line>
 
-<line>CXLI</line>
+</sonnet>
+<sonnet number ="CXLI">
 
 <line>In faith I do not love thee with mine eyes,</line>
 <line>For they in thee a thousand errors note;</line>
@@ -2395,7 +2535,8 @@
 <line>Only my plague thus far I count my gain,</line>
 <line>That she that makes me sin awards me pain.</line>
 
-<line>CXLII</line>
+</sonnet>
+<sonnet number ="CXLII">
 
 <line>Love is my sin, and thy dear virtue hate,</line>
 <line>Hate of my sin, grounded on sinful loving:</line>
@@ -2412,7 +2553,8 @@
 <line>If thou dost seek to have what thou dost hide,</line>
 <line>By self-example mayst thou be denied!</line>
 
-<line>CXLIII</line>
+</sonnet>
+<sonnet number ="CXLIII">
 
 <line>Lo, as a careful housewife runs to catch</line>
 <line>One of her feather'd creatures broke away,</line>
@@ -2429,7 +2571,8 @@
 <line>So will I pray that thou mayst have thy 'Will,'</line>
 <line>If thou turn back and my loud crying still.</line>
 
-<line>CXLIV</line>
+</sonnet>
+<sonnet number ="CXLIV">
 
 <line>Two loves I have of comfort and despair,</line>
 <line>Which like two spirits do suggest me still:</line>
@@ -2446,7 +2589,8 @@
 <line>Yet this shall I ne'er know, but live in doubt,</line>
 <line>Till my bad angel fire my good one out.</line>
 
-<line>CXLV</line>
+</sonnet>
+<sonnet number ="CXLV">
 
 <line>Those lips that Love's own hand did make,</line>
 <line>Breathed forth the sound that said 'I hate',</line>
@@ -2463,7 +2607,8 @@
 <line>'I hate', from hate away she threw,</line>
 <line>And sav'd my life, saying 'not you'.</line>
 
-<line>CXLVI</line>
+</sonnet>
+<sonnet number ="CXLVI">
 
 <line>Poor soul, the centre of my sinful earth,</line>
 <line>My sinful earth these rebel powers array,</line>
@@ -2480,7 +2625,8 @@
 <line>So shall thou feed on Death, that feeds on men,</line>
 <line>And Death once dead, there's no more dying then.</line>
 
-<line>CXLVII</line>
+</sonnet>
+<sonnet number ="CXLVII">
 
 <line>My love is as a fever longing still,</line>
 <line>For that which longer nurseth the disease;</line>
@@ -2497,7 +2643,8 @@
 <line>For I have sworn thee fair, and thought thee bright,</line>
 <line>Who art as black as hell, as dark as night.</line>
 
-<line>CXLVIII</line>
+</sonnet>
+<sonnet number ="CXLVIII">
 
 <line>O me! what eyes hath Love put in my head,</line>
 <line>Which have no correspondence with true sight;</line>
@@ -2514,7 +2661,8 @@
 <line>O cunning Love! with tears thou keep'st me blind,</line>
 <line>Lest eyes well-seeing thy foul faults should find.</line>
 
-<line>CXLIX</line>
+</sonnet>
+<sonnet number ="CXLIX">
 
 <line>Canst thou, O cruel! say I love thee not,</line>
 <line>When I against myself with thee partake?</line>
@@ -2531,7 +2679,8 @@
 <line>But, love, hate on, for now I know thy mind;</line>
 <line>Those that can see thou lov'st, and I am blind.</line>
 
-<line>CL</line>
+</sonnet>
+<sonnet number ="CL">
 
 <line>O! from what power hast thou this powerful might,</line>
 <line>With insufficiency my heart to sway?</line>
@@ -2548,7 +2697,8 @@
 <line>If thy unworthiness rais'd love in me,</line>
 <line>More worthy I to be belov'd of thee.</line>
 
-<line>CLI</line>
+</sonnet>
+<sonnet number ="CLI">
 
 <line>Love is too young to know what conscience is,</line>
 <line>Yet who knows not conscience is born of love?</line>
@@ -2565,7 +2715,8 @@
 <line>No want of conscience hold it that I call</line>
 <line>Her 'love,' for whose dear love I rise and fall.</line>
 
-<line>CLII</line>
+</sonnet>
+<sonnet number ="CLII">
 
 <line>In loving thee thou know'st I am forsworn,</line>
 <line>But thou art twice forsworn, to me love swearing;</line>
@@ -2582,7 +2733,8 @@
 <line>For I have sworn thee fair; more perjur'd I,</line>
 <line>To swear against the truth so foul a lie!</line>
 
-<line>CLIII</line>
+</sonnet>
+<sonnet number ="CLIII">
 
 <line>Cupid laid by his brand and fell asleep:</line>
 <line>A maid of Dian's this advantage found,</line>
@@ -2599,7 +2751,8 @@
 <line>But found no cure, the bath for my help lies</line>
 <line>Where Cupid got new fire; my mistress' eyes.</line>
 
-<line>CLIV</line>
+</sonnet>
+<sonnet number ="CLIV">
 
 <line>The little Love-god lying once asleep,</line>
 <line>Laid by his side his heart-inflaming brand,</line>
@@ -2615,3 +2768,4 @@
 <line>For men diseas'd; but I, my mistress' thrall,</line>
 <line>Came there for cure and this by that I prove,</line>
 <line>Love's fire heats water, water cools not love.</line>
+</sonnet></xml>

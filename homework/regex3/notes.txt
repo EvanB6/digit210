@@ -1,0 +1,16 @@
+find & none
+find < none 
+find > none
+
+find ^.+$
+replace <p>\0</p> 7043 match
+
+find <p>\s+([XVI]+)\.\s+(.+)</p>
+replace <title>\1. \2</title
+table of conetents
+
+find <p>([XVI]+)\.\s+(.+)</p>
+<title>\1. \2</title
+chapters in text
+
+
