@@ -1,0 +1,18 @@
+xml: Header++NL+.
+Header: number, -NL, date, -NL, words++NL.
+number: ~[#9].
+-NL: #d?, #a.
+date: ~[#9]+.
+words: ~[#9]+.
+
+
+xml: section++NL+.
+section:num+, timestamp,NL,  transcript.
+timestamp: start, end.
+@start: timeUnit1, timeUnit2, separator, timeUnit1, timeUnit2.
+timeUnit1: (num, num ":")+.
+timeUnit2 (num, ; ",")+.
+transcript: NotNL++NL.
+NL: -(#a?, #d).
+-NotNL: ~[#a;#d]
+-num: [N].

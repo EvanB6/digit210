@@ -1,0 +1,15 @@
+xml: header, move++NewLine.
+header: Label++SpacePattern, NewLine.
+Label: ["A"-"z"]+, "."?.
+-SpacePattern: -NewLine, -tab, -NewLine.
+-NewLine: #d?, #a.
+-tab: [#9].
+move: name, -tab, type,-tab, cat,-tab, power,-tab, acc,-tab, pp, -tab,effect.
+name: ~[#9]+.
+type: ~[#9]+.
+cat: ~[#9]+,' '.
+power:( [N];em)+,' '.
+acc: ([N];em)+,' '.
+pp: ([N];em)+,' '.
+effect:~[#9]+.
+em: [#2014].
